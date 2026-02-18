@@ -1,0 +1,21 @@
+Mission ID,Mission Name,Launch Date,Target Name,Mission Type,Distance from Earth,Mission Duration,Mission Cost,Scientific Yield,Crew Size,Mission Success,Fuel Consumption,Payload Weight,Launch Vehicle
+1,Apollo 11,1969-07-16,Moon,Lunar,384400,8,355,95,3,Success,120000,45000,Saturn V
+2,Mars Pathfinder,1996-12-04,Mars,Planetary,225000000,300,280,88,0,Success,150000,8000,Delta II
+3,Chandrayaan-2,2019-07-22,Moon,Lunar,384400,48,140,85,0,Failure,100000,3850,GSLV MkIII
+4,SpaceX CRS-20,2020-03-06,ISS,Orbital,408,30,90,75,0,Success,90000,6000,Falcon 9
+5,Artemis I,2022-11-16,Moon,Lunar,384400,25,410,92,0,Success,180000,26000,SLS
+6,Shenzhou 5,2003-10-15,Low Earth Orbit,Orbital,400,21,70,80,1,Success,85000,7800,Long March 2F
+7,Viking 1,1975-08-20,Mars,Planetary,225000000,335,1000,98,0,Success,200000,3500,Titan IIIE
+8,Challenger STS-51-L,1986-01-28,Low Earth Orbit,Orbital,400,1,196,60,7,Failure,110000,24000,Space Shuttle
+9,Hubble Launch,1990-04-24,Low Earth Orbit,Orbital,540,365,1500,99,5,Success,130000,11110,Space Shuttle
+10,ISRO Mangalyaan,2013-11-05,Mars,Planetary,225000000,298,74,90,0,Success,95000,1350,PSLV
+11,Gaganyaan Test,2024-01-10,Low Earth Orbit,Orbital,400,3,120,70,3,Success,87000,8000,GSLV MkIII
+12,James Webb Launch,2021-12-25,L2 Orbit,Deep Space,1500000,180,10000,100,0,Success,220000,6200,Ariane 5
+13,Luna 25,2023-08-11,Moon,Lunar,384400,10,200,60,0,Failure,95000,1750,Soyuz 2
+14,Starship Test,2023-04-20,Suborbital,Experimental,100,1,50,40,0,Failure,300000,100000,Starship
+15,New Shepard Test,2022-09-12,Suborbital,Experimental,100,1,25,30,0,Success,40000,2000,New Shepard
+16,Inspiration4,2021-09-15,Low Earth Orbit,Orbital,575,3,200,85,4,Success,115000,12000,Falcon 9
+17,Hayabusa2,2014-12-03,Asteroid,Deep Space,300000000,2194,150,93,0,Success,125000,610,Ariane 5
+18,Galileo Probe,1989-10-18,Jupiter,Deep Space,778000000,2240,1400,97,0,Success,210000,2500,Space Shuttle
+19,Tiangong Mission,2022-06-05,Low Earth Orbit,Orbital,400,6,100,82,3,Success,88000,9000,Long March 2F
+20,ExoMars Test,2016-03-14,Mars,Planetary,225000000,210,500,78,0,Failure,160000,4500,Proton-M
