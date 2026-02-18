@@ -53,3 +53,5 @@ This project showed the ways in which mathematics, data analysis, and engineerin
 In addition to the technical skills, this project also taught me more about the ways in which differential equations can be used to model real-world physical systems, as well as the ways in which data visualization can be used to support engineering decisions.
 
 This project has improved my skills in both mathematical reasoning and the ways in which I can use theory to create interactive analytical tools.
+
+LINK TO THE PROJECT https://bxu9bbxv56nevdjjf6wx57.streamlit.app/
